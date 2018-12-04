@@ -1,0 +1,8 @@
+我的学习体系
+    1.socket  最简单的socket server/client 通信传输
+      目标
+        主要是为了在基于TCP协议的基础上进行学习
+        1.代码属于应用层，java 通过Socket
+        2.通过传输层 按照TCP/UDP 协议
+        2.网络层：IP  ICMP协议 IGMP 协议
+        3.链路层：硬件接口 ARP RARP

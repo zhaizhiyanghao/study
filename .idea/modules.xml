@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/serialize/serialize.iml" filepath="$PROJECT_DIR$/serialize/serialize.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
     </modules>
   </component>
 </project>

@@ -11,6 +11,8 @@
   <modules>
     <module>socket</module>
       <module>serialize</module>
+      <module>proxy</module>
+      <module>factory</module>
   </modules>
 
   <name>study</name>
